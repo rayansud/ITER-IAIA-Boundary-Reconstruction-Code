@@ -4,6 +4,6 @@
 
  Code explained in detail in  `IAIA Reconstruction User Guide.docx`
 
- ![https://github.com/rayansud/ITER-IAIA-Boundary-Reconstruction-Code/blob/main/Images/GUI.jpg]
+ !(https://github.com/rayansud/ITER-IAIA-Boundary-Reconstruction-Code/blob/main/Images/GUI.jpg)
 
- ![https://github.com/rayansud/ITER-IAIA-Boundary-Reconstruction-Code/blob/main/Images/Convergence%20of%20boundary.png]
+ !(https://github.com/rayansud/ITER-IAIA-Boundary-Reconstruction-Code/blob/main/Images/Convergence%20of%20boundary.png)
